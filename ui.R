@@ -1,9 +1,7 @@
 library(shiny)
-library(datasets)
 library(shinydashboard)
-library(DT)
-library(stargazer)
 library(shinycssloaders)
+library(markdown)
 
    sidebar <-  dashboardSidebar(
    sidebarMenu(id = "sidebar",
