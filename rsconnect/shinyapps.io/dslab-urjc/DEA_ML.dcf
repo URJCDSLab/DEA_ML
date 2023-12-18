@@ -5,7 +5,7 @@ account: dslab-urjc
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 10820314
-bundleId: 8061883
+bundleId: 8061913
 url: https://dslab-urjc.shinyapps.io/DEA_ML/
 version: 1
 asMultiple: FALSE
